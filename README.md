@@ -7,4 +7,6 @@ Here are some still images of what it looks like!
 
 <img src='still-image.png'>
 
+<img src='clock.png'>
+
 <img src='still-image-2.png'>
