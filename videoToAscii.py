@@ -12,7 +12,9 @@ def transform(img):
 def setupAsciiMapping():
 	asciiToNum = {}
 	characterSet = list('  ..,,::;;ii11ttffLL;;::..ii11ttL')
+	#characterSet = list('   .....//ii11tt   ...    ii11ttL')
 	#characterSet = list((' '*2)+('n'*2)+('n'*1)+('/'*3)+('.'*2)+(' '*23))
+	#characterSet = list((' '*2)+('n'*2)+('n'*1)+('/'*3)+('.'*6)+(' '*23))
 					
 	#characterSet = characterSet[::-1]
 	
